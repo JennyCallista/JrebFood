@@ -6,9 +6,9 @@ import core.controller.Controller;
 import core.model.Model;
 import core.view.View;
 
-public class LoginController extends Controller {
+public class CartController extends Controller{
 
-	public LoginController() {
+	public CartController() {
 		// TODO Auto-generated constructor stub
 	}
 
